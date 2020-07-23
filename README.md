@@ -1,4 +1,4 @@
-__Note:__ To see all the visuals created by folium, Please use the following link as Github doesn't render Folium.
+__Note:__ To see all the visuals created by folium, Please use the following link as Github doesn't render Folium:https://nbviewer.jupyter.org/github/frazali32/Applied-Capstone-IBM/blob/master/IBM_Applied_Capstone.ipynb
 
 Tim Hortons Inc. is a fast food restaurant chain, specializing in coffee, doughnuts, and other fast food items. It is Canada's largest quick service restaurant chain; as of December 31, 2018, it had a total of 4,846 restaurants in 14 countries. The company has its headquarters in Toronto. Since it is an established brand, Many entrepreneurs seek to open their own their own chain.
 
